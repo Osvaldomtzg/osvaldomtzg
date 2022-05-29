@@ -1,7 +1,7 @@
 ## HELLO / HOLA 👋
 
 
-Hello, welcome, I am a computer systems engineering student at TECNM university, my love for technology makes me want to grow as a programmer and engineer, I am very passionate about web development and cybersecurity, one day you will see my super professional profile with my achievements and projects, I am currently preparing for the future, see you at the top.
+Welcome, I am a computer systems engineering student at TECNM university, my love for technology makes me want to grow as a programmer and engineer, I am very passionate about web development and cybersecurity, one day you will see my super professional profile with my achievements and projects, I am currently preparing for the future, see you at the top.
 
 ## SKILLS
 
