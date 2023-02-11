@@ -8,7 +8,6 @@ Welcome, I am a computer systems engineering student at TECNM university, my lov
 ✅ JAVA
 ✅ JAVASCRIPT
 ✅ CSS, HTML
-✅ Python
 
 ##
 Sayonara
