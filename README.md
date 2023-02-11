@@ -6,6 +6,7 @@ Welcome, I am a computer systems engineering student at TECNM university, my lov
 ## SKILLS
 
 ✅ JAVA
+✅ SQL
 ✅ JAVASCRIPT
 ✅ CSS, HTML
 
